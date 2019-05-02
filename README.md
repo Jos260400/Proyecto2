@@ -1,2 +1,2 @@
 # Proyecto2
-Algoritmos y estructuras de datos, Sistema de recomendaciones con base de datos de grafos
+Algoritmos y Estructuras de Datos. Sistema de recomendaciones con base de datos de grafos.
